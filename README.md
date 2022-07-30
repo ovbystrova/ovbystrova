@@ -11,7 +11,7 @@ I currently work at Sber AI Center as a **Senior NLP Data Scientist** 🏦
 More information about my work experience and background you can see here: [CV](resources/OlgaBystrovaCV.pdf)
 
 ### Projects 🐾
-- [InstructionNER](https://github.com/ovbystrova/InstructionNER) - unofficial implementation of [paper](https://arxiv.org/pdf/2203.03903v1.pdf) on solving NER through generative LM 
+- [InstructionNER](https://github.com/ovbystrova/InstructionNER) - unofficial implementation of [paper](https://arxiv.org/pdf/2203.03903v1.pdf) on solving NER through generative models 
 - [Fake News Detector / Text GANs](https://github.com/ovbystrova/hse_diploma_bc) - exploration of text GANs in fake news domain
 
 ###  
