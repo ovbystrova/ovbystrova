@@ -21,3 +21,4 @@ More information about my work experience and background you can see here: [CV](
 ### Recent Activity
 <!--START_SECTION:activity-->
 ![](https://hit.yhype.me/github/profile?user_id=ovbystrova)
+![](https://hit.yhype.me/github/profile?user_id=31935102)
