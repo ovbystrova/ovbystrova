@@ -2,8 +2,8 @@
 
 [![Linkedin: ovbystrova](https://img.shields.io/badge/-Olga%20Bystrova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ovbystrova/)](https://www.linkedin.com/in/ovbystrova/)
 [![Telegram: ovbystrova](https://img.shields.io/badge/-olgaduchovny-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/olgaduchovny)](https://t.me/olgaduchovny)
-<!--![Profile views](https://gpvc.arturio.dev/ovbystrova)-->
-
+![](https://komarev.com/ghpvc/?username=ovbystrova&color=green)
+![Profile views](https://gpvc.arturio.dev/ovbystrova)
 ###
 
 I currently work at Sber AI Center as a **Senior NLP Data Scientist** 🏦
@@ -20,5 +20,4 @@ More information about my work experience and background you can see here: [CV](
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-![](https://hit.yhype.me/github/profile?user_id=ovbystrova)
 ![](https://hit.yhype.me/github/profile?user_id=31935102)
