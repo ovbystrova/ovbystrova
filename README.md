@@ -3,7 +3,6 @@
 [![Linkedin: ovbystrova](https://img.shields.io/badge/-Olga%20Bystrova-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ovbystrova/)](https://www.linkedin.com/in/ovbystrova/)
 [![Telegram: ovbystrova](https://img.shields.io/badge/-olgaduchovny-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/olgaduchovny)](https://t.me/olgaduchovny)
 ![](https://komarev.com/ghpvc/?username=ovbystrova&color=green)
-![Profile views](https://gpvc.arturio.dev/ovbystrova)
 ###
 
 I currently work at Sber AI Center as a **Senior NLP Data Scientist** 🏦
