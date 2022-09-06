@@ -20,6 +20,6 @@ More information about my work experience and background you can see here: [CV](
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/ovbystrova/InstructionNER/issues/1) in [ovbystrova/InstructionNER](https://github.com/ovbystrova/InstructionNER)
+1. ❗️ Opened issue [#2](https://github.com/ovbystrova/InstructionNER/issues/2) in [ovbystrova/InstructionNER](https://github.com/ovbystrova/InstructionNER)
 <!--END_SECTION:activity-->
 ![](https://hit.yhype.me/github/profile?user_id=31935102)
