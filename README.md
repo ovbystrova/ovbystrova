@@ -6,9 +6,8 @@
 ![](https://komarev.com/ghpvc/?username=ovbystrova&color=blue)
 ###
 
-I currently work at Sber AI Center as a **Senior NLP Data Scientist** 🏦
+I currently work at Snapchat as a **Machine Learning Engineer** 🏦
 
-More information about my work experience and background you can see here: [CV](resources/OlgaBystrovaCV.pdf)
 
 ### Projects 🐾
 - [InstructionNER](https://github.com/ovbystrova/InstructionNER) - unofficial implementation of [paper](https://arxiv.org/pdf/2203.03903v1.pdf) on solving NER through generative models 
